@@ -1,5 +1,10 @@
-# SkotOS Documentation
+# vRWOT Documentation
 
+vRWOT, aka, the Virtual Rebooting the Web of Trust is a virtual platform of the [RWOT workshops](http://weboftrust.info). 
+
+This is a first draft iteration from the source ChatTheatre documentation.
+
+----
 SkotOS, from ChatTheatre, is a suite of tools for making text-based games. If you want to ***play*** a SkotOS-based game, you can make an account on [Castle Marrach](https://www.marrach.com/), [Allegory of Empires](https://allegoryofempires.com/) and/or [Multiverse; Revelations](https://home.multirev.net/).
 
 But if you want to ***build*** a SkotOS-based game, this is a good place to start.
