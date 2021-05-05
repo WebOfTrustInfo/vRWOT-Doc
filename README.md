@@ -79,6 +79,7 @@ Under US law it is a bit more difficult to declare something public domain (see 
 The following parties have declared their contributions to this repository as public domain:
 
 * Noah Gibbs
+* Joe Andrieu
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
