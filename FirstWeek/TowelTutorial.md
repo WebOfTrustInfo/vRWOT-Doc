@@ -47,7 +47,7 @@ First test your generic Towel in the text environment. Drop it, get it. It is a 
 Next, while wearing it, look at it, and look at yourself, and examine it.
 
 ```
-> You look at a clean white towel.
+> look at my towel
  A clean, towel made of white cotton. It is embroidered with the Miskatonic University insignia. 
 > look at me
  You look at yourself.
